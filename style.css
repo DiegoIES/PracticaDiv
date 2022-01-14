@@ -1,0 +1,37 @@
+h1{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+div.verde{
+    background-color: chartreuse;
+    text-align: center;
+}
+
+div.naranj{
+    background-color: darkorange;
+
+}
+
+div.negrit{
+    font-weight: bold;
+}
+
+div.azul{
+    background-color: blue;
+    text-align: center;
+}
+
+div.amari{
+    background-color: yellow;
+    color: purple;
+    display: inline-block;
+}
+
+div.maps{
+    display: inline;
+}
+
+div.video{
+    display: inline;
+}
